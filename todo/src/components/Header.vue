@@ -1,5 +1,5 @@
 <template>
-    <header class= "header text-2xl">
+    <header class= "header text-2xl ">
        <link rel="stylesheet" href="/build/tailwind.css">
         <h1>Todo Listc</h1>
     </header>
